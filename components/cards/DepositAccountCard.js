@@ -38,7 +38,7 @@ export default function DepositAccountCard({ edge, item }) {
 				</View>
 			</View>
 			<View>
-				<Text style={styles.amount}>${amount}</Text>
+				<Text style={styles.amount}>{amount} MAD</Text>
 			</View>
 		</TouchableOpacity>
 	);

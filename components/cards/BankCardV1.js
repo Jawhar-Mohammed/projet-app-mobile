@@ -28,7 +28,7 @@ export default function BankCardV1({ item, edge }) {
 				</View>
 			</View>
 			<View>
-				<Text style={styles.amount}>${amount}</Text>
+				<Text style={styles.amount}>{amount} MAD</Text>
 			</View>
 		</TouchableOpacity>
 	);

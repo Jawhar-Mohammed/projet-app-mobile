@@ -2,9 +2,9 @@ import { COLORS, ROUTES } from "../constants";
 
 export const cardList = [
 	{
-		cardName: "Master Card Premium",
+		cardName: "MasterCard Premium",
 		rib: "93453311648953222653465373",
-		amount: "3.240,34",
+		amount: "3.200,34",
 		iconName: "cc-mastercard",
 		iconType: "font-awesome",
 		color: COLORS.orange,
@@ -17,13 +17,14 @@ export const cardList = [
 		iconType: "font-awesome",
 		color: COLORS.blue,
 	},
+
 ];
 
 export const accountList = [
 	{
 		accountName: "Compte principale",
 		accountType: "Compte Chèque",
-		amount: "14.980,14",
+		amount: "14.980",
 		iconName: "bank",
 		iconType: "font-awesome",
 		color: COLORS.orange,

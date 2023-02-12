@@ -4,7 +4,7 @@ import React from "react";
 export default function NotificationsScreen() {
 	return (
 		<View>
-			<Text>NotificationsScreen</Text>
+			<Text>Notifications  Screen d </Text>
 		</View>
 	);
 }
