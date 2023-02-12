@@ -24,3 +24,6 @@ npx expo start --tunnel
 
 npx expo start --tunnel
 yarn add expo
+
+
+New comite
