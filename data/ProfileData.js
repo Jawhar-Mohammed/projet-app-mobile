@@ -136,14 +136,14 @@ export const profileList = [
 		iconName: "email",
 		iconType: "fontisto",
 		text: "Email",
-		description: "mohamed.dl.adnane@gmail.com",
+		description: "mohammed.jawhare@gmail.com",
 		isLink: true,
 	},
 	{
 		iconName: "ios-home-outline",
 		iconType: "ionicon",
 		text: "Adresse",
-		description: "Avenue palestine, rue el gharb bettana Salé",
+		description: "12 Avenue zerktouni, Casablanca Maroc",
 		isLink: true,
 	},
 	{

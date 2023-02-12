@@ -21,7 +21,7 @@ import { accountList, cardList } from "../../data/HomeData";
 export default function HomeScreen({ navigation }) {
 	return (
 		<View style={styles.container}>
-			<Header title="Bonjour Adnane" bc={COLORS.orange} />
+			<Header title="Bonjour M JAWHAR" bc={COLORS.orange} />
 			<View style={styles.body}>
 				<HomeActions />
 			</View>
