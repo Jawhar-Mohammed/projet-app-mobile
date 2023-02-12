@@ -1,0 +1,10 @@
+
+
+git config --global credential.helper wincred
+npm install -g npm@latest
+npx expo -h
+npx expo start --tunnel
+
+
+npx expo start --tunnel
+yarn add expo

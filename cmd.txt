@@ -5,3 +5,22 @@ yarn add @react-navigation/bottom-tabs
 
 yarn add @react-navigation/drawer
 yarn add react-native-gesture-handler react-native-reanimated
+
+
+
+
+npx expo -h
+yarn add expo
+npx expo start --tunnel
+
+
+
+
+git config --global credential.helper wincred
+npm install -g npm@latest
+npx expo -h
+npx expo start --tunnel
+
+
+npx expo start --tunnel
+yarn add expo
