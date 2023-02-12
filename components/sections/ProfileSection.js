@@ -12,7 +12,7 @@ export default function ProfileSection() {
 				<View style={styles.imageContainer}>
 					<Image source={IMAGES.profileImage} style={styles.image} />
 				</View>
-				<Text style={styles.name}>Drissi Lahsini Mohamed Adnane</Text>
+				<Text style={styles.name}>JAWHAR Mohammed</Text>
 			</View>
 			{profileList.map((item, index) => (
 				<ListItem

@@ -129,7 +129,7 @@ export const profileList = [
 		iconName: "call-outline",
 		iconType: "ionicon",
 		text: "Téléphone",
-		description: "+212 6-31-14-19-56",
+		description: "+212 6-62-44-90-90",
 		isLink: true,
 	},
 	{

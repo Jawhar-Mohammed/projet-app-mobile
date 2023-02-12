@@ -2,7 +2,7 @@ import { COLORS, ROUTES } from "../constants";
 
 export const cardList = [
 	{
-		cardName: "MasterCard Premium",
+		cardName: "Master Card Premium",
 		rib: "93453311648953222653465373",
 		amount: "3.240,34",
 		iconName: "cc-mastercard",
